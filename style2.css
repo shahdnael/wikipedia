@@ -1,0 +1,30 @@
+body {
+   
+    background-color: #F5EFE6;
+    
+        }
+     img { 
+    width: 120px;
+    }
+    p { 
+    word-spacing: 5px;
+    font-family: "Fantasy";
+    }
+    
+    td,th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 10px;
+      background-color:#FFDDD2 ;
+    }
+    hr {
+     border-width: 2px;
+     height: 0px;
+     border-color: black;
+    
+    }
+    h1 {
+        text-transform: uppercase
+    
+    }
+    
